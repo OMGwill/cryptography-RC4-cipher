@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=i\ j
+comment0.target=void\ swap(int,\ int)
+comment1.params=seed
+comment1.target=void\ permute(int[])
+comment2.params=ptxt
+comment2.target=int[]\ encrypt(int[])
+comment3.params=ctxt
+comment3.target=int[]\ decrypt(int[])
+comment4.params=
+comment4.target=void\ main()
+numComments=5
